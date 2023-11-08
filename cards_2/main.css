@@ -1,0 +1,142 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.services{
+    text-align: center;
+    margin-bottom: 100px;
+
+}
+
+.services_text{
+    color: #7D7D7D;
+}
+
+.cards_block{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+.cards{
+    border-radius: 15px;
+background: var(--state-hover, #FFF);
+box-shadow: 0px 0px 77px 0px rgba(0, 0, 0, 0.06);
+    text-align: left;
+    width: 290px;
+    margin-left: 30px;
+    padding: 15px;
+}
+
+
+.cards_text{
+    color: rgba(55, 71, 79, 0.72);
+}
+
+.news{
+    text-align: center;
+    margin: 100px;
+}
+
+.news_text{
+    color: #7D7D7D;
+    
+}
+
+.cards_news{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    margin-bottom: 60px;
+}
+
+.news_card{
+    width: 344px;
+    border-radius: 10px;
+background: #FFF;
+box-shadow: 0px 6px 42px 0px rgba(0, 0, 0, 0.10);
+   padding: 15px;
+   margin-left: 30px;
+}
+
+.news_img{
+    margin-bottom: 20px;
+}
+
+.news_data{
+    display: flex;
+    justify-content: left;
+    padding-left: 23px;
+    
+}
+
+.news_date{
+ color:#565656;
+ font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+
+.news_text2{
+    font-weight: bolder;
+    color: black;
+    padding-left: 26px;
+    padding-right: 27px;
+    padding-bottom: 62px;
+    
+}
+
+.count{
+    text-align: center;
+    margin: 100px;
+}
+
+.count_text{
+    color: #7D7D7D;
+text-align: center;
+font-family: Roboto;
+font-style: normal;
+}
+
+.count_cards{
+    display: flex;
+    justify-content: center;
+    margin-left: 30px;
+    margin-bottom: 70px;
+    
+}
+
+.count_cards1{
+    text-align: left;
+    width: 348px;
+    padding: 15px;
+    margin-left: 15px;
+}
+
+.count_title2{
+    color: #37474F;
+
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+
+}
+
+.count_text2{
+  color: rgba(55, 71, 79, 0.72);
+ font-family: Roboto;
+ font-size: 15px;
+ font-style: normal;
+ font-weight: 500;
+ line-height: 27px; /* 168.75% */
+ 
+}
+
+.count_icon{
+    text-align: center;
+    font-size: smaller;
+
+}
